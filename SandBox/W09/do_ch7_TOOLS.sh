@@ -1,4 +1,5 @@
 #!/bin/bash
+# REV03 Tue 18 May 19:17:13 WIB 2021
 # REV02 Sun 16 May 11:40:33 WIB 2021
 # REV01 Sat 15 May 22:25:26 WIB 2021
 # START Fri 14 May 14:29:10 WIB 2021
@@ -49,7 +50,7 @@ fecho "username $(whoami)"
 fecho "Please Wait..."
 fecho "okSources $(okSources)"
 fecho "READY!"
-fecho "Sources  $(du -h $LFSDIR/sources/)"
+fecho "Sources  $(du -s -h $LFSDIR/sources/)"
 TOKEN=$(chktokenn $INPUTTOKEN)
 VERIFY=$(verifyTokenn $INPUTTOKEN $TOKEN)
 fecho "verifyTokenn $INPUTTOKEN $TOKEN $VERIFY"
