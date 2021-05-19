@@ -20033,18 +20033,18 @@ ZCZC ./
 ./tools/x86_64-lfs-linux-gnu/lib/ldscripts/elf_k1om.xsc
 ./run/
 ZCZC FILES 20034
-ZCZC TOOLS 820M	/root/lfs-temp-tools-10.1.tar.xz
+ZCZC TOOLS 835M	/root/lfs-temp-tools-10.1.tar.xz
 ZCZC ===== Chapter 07_TOOLS =====  Week 09 =====
 ZCZC pwd /home/cbkadal/git/os211quiz/SandBox/W09/W09
-ZCZC date 210516-2244
+ZCZC date 210519-2112
 ZCZC hostname cbkadal
 ZCZC username cbkadal
 ZCZC Please Wait...
 ZCZC okSources 84
 ZCZC READY!
 ZCZC Sources  431M	/mnt/lfs/sources/
-ZCZC verifyTokenn cbkadalW09 cbkadal 4444-B916 Verified
+ZCZC verifyTokenn cbkadalW09 cbkadal 1220-0129 Verified
 ZCZC MaxLFS 2646M
-ZCZC MaxROOT 2408M
-ZCZC MaxMemory 125M
-ZCZC MaxSwap 1M
+ZCZC MaxROOT 2429M
+ZCZC MaxMemory 119M
+ZCZC MaxSwap 0M
