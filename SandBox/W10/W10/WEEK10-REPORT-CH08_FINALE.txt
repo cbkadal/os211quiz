@@ -1,14 +1,14 @@
 ZCZC ===== Chapter 08_FINALE =====  Week 10 =====
 ZCZC pwd /home/cbkadal/git/os211quiz/SandBox/W10/W10
-ZCZC date 210524-0426
+ZCZC date 210524-0548
 ZCZC hostname cbkadal
 ZCZC username cbkadal
 ZCZC Please Wait...
 ZCZC okSources 84
 ZCZC READY!
 ZCZC Sources  436M	/mnt/lfs/sources/
-ZCZC verifyTokenn cbkadalW10 cbkadal 2636-BDC0 Verified
-ZCZC MaxLFS 4655M
+ZCZC verifyTokenn cbkadalW10 cbkadal 4835-0F79 Verified
+ZCZC MaxLFS 1632M
 ZCZC MaxROOT 1595M
-ZCZC MaxMemory 98M
+ZCZC MaxMemory 127M
 ZCZC MaxSwap 0M
