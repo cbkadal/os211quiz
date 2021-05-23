@@ -1,5 +1,5 @@
 #!/bin/bash
-# REV10 Sun 23 May 2021 04:32:25 PM WIB
+# REV11 Mon 24 May 04:25:25 WIB 2021
 # REV03 Tue 18 May 19:17:13 WIB 2021
 # REV02 Sun 16 May 11:40:33 WIB 2021
 # REV01 Sat 15 May 22:25:26 WIB 2021
@@ -55,13 +55,9 @@ MaxLFS=0
 MaxROOT=0
 MaxMemory=0
 MaxSwap="-1"
-EXTRAS=60
-while true ; do
     TOKEN=$(chktokenn $INPUTTOKEN)
     VERIFY=$(verifyTokenn $INPUTTOKEN $TOKEN)
     fecho "verifyTokenn $INPUTTOKEN $TOKEN $VERIFY"
-    LOOP=10
-    while (( LOOP-- )) ; do
         TMP1=$(($(df|awk '/ \/mnt\/lfs$/ {print $3}')/1024))
         (( "$MaxLFS" < "$TMP1" )) && { MaxLFS=$TMP1; fecho "MaxLFS ${MaxLFS}M" ; }
         TMP1=$(($(df|awk '/ \/$/ {print $3}')/1024))
@@ -70,10 +66,5 @@ while true ; do
         (( "$MaxMemory" < "$TMP1" )) && { MaxMemory=$TMP1; fecho "MaxMemory ${MaxMemory}M" ; }
         TMP1=$(($(free|awk '/Swap:/ {print $3}')/1024))
         (( "$MaxSwap" < "$TMP1" )) && { MaxSwap=$TMP1; fecho "MaxSwap ${MaxSwap}M" ; }
-        sleep 6
-    done
-    sleep $((1+(++EXTRAS/60)))
-    (( "$EXTRAS" > "60" )) && EXTRAS=0
-done
 exit
 
