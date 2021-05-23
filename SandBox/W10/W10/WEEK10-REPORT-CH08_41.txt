@@ -1,144 +1,205 @@
 ZCZC ===== Chapter 08_41 =====  Week 10 =====
 ZCZC pwd /home/cbkadal/git/os211quiz/SandBox/W10/W10
-ZCZC date 210523-1457
+ZCZC date 210523-2111
 ZCZC hostname cbkadal
 ZCZC username cbkadal
 ZCZC Please Wait...
 ZCZC okSources 84
 ZCZC READY!
 ZCZC Sources  436M	/mnt/lfs/sources/
-ZCZC verifyTokenn cbkadalW10 cbkadal 5735-EB51 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1201-B596 Verified
 ZCZC MaxLFS 4437M
-ZCZC MaxROOT 1655M
-ZCZC MaxMemory 104M
+ZCZC MaxROOT 1595M
+ZCZC MaxMemory 101M
 ZCZC MaxSwap 0M
-ZCZC verifyTokenn cbkadalW10 cbkadal 5837-F9C0 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 5938-E226 Verified
+ZCZC MaxMemory 106M
+ZCZC MaxMemory 113M
+ZCZC MaxMemory 116M
+ZCZC MaxMemory 117M
+ZCZC verifyTokenn cbkadalW10 cbkadal 1304-1F93 Verified
 ZCZC MaxLFS 4438M
-ZCZC MaxMemory 105M
-ZCZC verifyTokenn cbkadalW10 cbkadal 0040-21DE Verified
-ZCZC MaxMemory 109M
+ZCZC MaxMemory 131M
+ZCZC verifyTokenn cbkadalW10 cbkadal 1406-371E Verified
 ZCZC MaxLFS 4439M
-ZCZC MaxMemory 174M
 ZCZC MaxLFS 4440M
-ZCZC verifyTokenn cbkadalW10 cbkadal 0141-B8EA Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0242-1CB7 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0343-C738 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0445-DB64 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0546-4830 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0647-46D6 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0748-2CD7 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0850-3DEA Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0951-1F1D Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1052-7093 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1153-1220 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1255-F2D4 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1356-A214 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1457-954F Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1558-868F Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1700-CDB1 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1801-E16F Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1507-3AF8 Verified
 ZCZC MaxLFS 4445M
 ZCZC MaxLFS 4446M
-ZCZC verifyTokenn cbkadalW10 cbkadal 1903-44D5 Verified
-ZCZC MaxLFS 4459M
-ZCZC MaxLFS 4462M
-ZCZC MaxLFS 4464M
+ZCZC verifyTokenn cbkadalW10 cbkadal 1609-E564 Verified
+ZCZC MaxLFS 4458M
+ZCZC MaxMemory 135M
+ZCZC MaxLFS 4460M
+ZCZC MaxMemory 144M
+ZCZC MaxLFS 4463M
+ZCZC MaxLFS 4465M
+ZCZC verifyTokenn cbkadalW10 cbkadal 1710-4079 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1811-93B0 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1913-F9A4 Verified
 ZCZC MaxLFS 4466M
-ZCZC verifyTokenn cbkadalW10 cbkadal 2004-BA26 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2105-3F80 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2207-F02B Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2308-43F5 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2409-DE8F Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2014-522A Verified
 ZCZC MaxLFS 4467M
-ZCZC verifyTokenn cbkadalW10 cbkadal 2510-2005 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2115-4EDE Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2217-0D8E Verified
 ZCZC MaxLFS 4468M
-ZCZC verifyTokenn cbkadalW10 cbkadal 2611-A226 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2713-6EEC Verified
+ZCZC MaxMemory 146M
+ZCZC verifyTokenn cbkadalW10 cbkadal 2318-C185 Verified
 ZCZC MaxLFS 4469M
-ZCZC verifyTokenn cbkadalW10 cbkadal 2814-6B17 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2915-95E3 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 3016-1821 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2419-BDE4 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2520-8CEE Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2621-DAB2 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2723-D4F8 Verified
 ZCZC MaxLFS 4470M
-ZCZC verifyTokenn cbkadalW10 cbkadal 3118-E2B2 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 3219-8EE8 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 3320-53A1 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 3421-AA35 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 3522-A20D Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 3624-7B76 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 3725-C57E Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2824-43B1 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2925-988A Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3026-F68E Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3128-2ECE Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3229-3CDC Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3330-5A0B Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3431-0032 Verified
 ZCZC MaxLFS 4471M
-ZCZC verifyTokenn cbkadalW10 cbkadal 3826-6562 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 3927-2A08 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 4028-380C Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 4130-2D44 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 4231-EA51 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 4332-09D8 Verified
-ZCZC MaxMemory 332M
-ZCZC verifyTokenn cbkadalW10 cbkadal 4433-7EBC Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 4534-5BAF Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 4636-E198 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 4737-D015 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 4838-89EA Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 4939-0E04 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 5041-7C3F Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 5142-341F Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 5244-E95A Verified
-ZCZC MaxLFS 4472M
-ZCZC verifyTokenn cbkadalW10 cbkadal 5346-8841 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 5447-D488 Verified
-ZCZC MaxLFS 4473M
-ZCZC MaxLFS 4476M
-ZCZC MaxLFS 4478M
-ZCZC verifyTokenn cbkadalW10 cbkadal 5549-322E Verified
-ZCZC MaxLFS 4481M
-ZCZC MaxLFS 4482M
-ZCZC MaxLFS 4485M
-ZCZC MaxLFS 4490M
-ZCZC MaxLFS 4493M
-ZCZC MaxLFS 4495M
-ZCZC MaxLFS 4501M
-ZCZC verifyTokenn cbkadalW10 cbkadal 5651-2077 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 5752-2504 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 5854-22A5 Verified
-ZCZC MaxLFS 4502M
+ZCZC verifyTokenn cbkadalW10 cbkadal 3532-CB61 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3633-5F7D Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3735-0868 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3836-C6D0 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3938-68BC Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4039-81C4 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4141-9FFC Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4242-68A5 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4344-A6FA Verified
+ZCZC MaxMemory 169M
+ZCZC MaxMemory 179M
+ZCZC MaxMemory 181M
+ZCZC MaxMemory 212M
+ZCZC verifyTokenn cbkadalW10 cbkadal 4445-5A92 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4546-DDDC Verified
+ZCZC MaxLFS 4475M
+ZCZC MaxLFS 4480M
+ZCZC verifyTokenn cbkadalW10 cbkadal 4647-F72A Verified
+ZCZC MaxLFS 4484M
+ZCZC MaxLFS 4492M
+ZCZC MaxLFS 4498M
+ZCZC verifyTokenn cbkadalW10 cbkadal 4748-15C3 Verified
+ZCZC MaxLFS 4504M
 ZCZC MaxLFS 4506M
-ZCZC MaxLFS 4508M
-ZCZC verifyTokenn cbkadalW10 cbkadal 5957-6EA3 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0100-D4B6 Verified
-ZCZC MaxLFS 4524M
-ZCZC MaxLFS 4534M
-ZCZC MaxLFS 4546M
-ZCZC MaxLFS 4560M
-ZCZC MaxLFS 4575M
-ZCZC verifyTokenn cbkadalW10 cbkadal 0201-6911 Verified
-ZCZC MaxLFS 4588M
-ZCZC MaxLFS 4599M
-ZCZC MaxLFS 4614M
-ZCZC MaxLFS 4625M
-ZCZC verifyTokenn cbkadalW10 cbkadal 0303-65D6 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0405-05E7 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0506-1058 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0607-C84C Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0709-AA10 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0811-0EE7 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 0913-6E32 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1014-6CAF Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1116-1282 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1218-D4BF Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1319-715D Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1420-2828 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1522-ED23 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1623-F9FA Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1724-A695 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1825-D222 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 1927-8D7E Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2028-E783 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2130-7831 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2231-9A99 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2333-989F Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2434-3972 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2535-458F Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2637-7204 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2738-0F33 Verified
-ZCZC verifyTokenn cbkadalW10 cbkadal 2839-D32F Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4850-63F5 Verified
+ZCZC MaxMemory 216M
+ZCZC MaxLFS 4507M
+ZCZC MaxLFS 4528M
+ZCZC MaxLFS 4555M
+ZCZC MaxLFS 4563M
+ZCZC MaxLFS 4582M
+ZCZC verifyTokenn cbkadalW10 cbkadal 4951-8175 Verified
+ZCZC MaxLFS 4605M
+ZCZC MaxLFS 4637M
+ZCZC verifyTokenn cbkadalW10 cbkadal 5052-054F Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5153-8210 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5255-7088 Verified
+ZCZC MaxMemory 225M
+ZCZC verifyTokenn cbkadalW10 cbkadal 5356-4814 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5457-D641 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5558-9D90 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5700-D680 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5802-9D43 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5904-045C Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0006-497A Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0107-1111 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0209-C1BA Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0310-BE10 Verified
+ZCZC MaxMemory 255M
+ZCZC verifyTokenn cbkadalW10 cbkadal 0411-2F4C Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0512-65AB Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0614-55F7 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0716-1D24 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0817-0471 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0919-2164 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1021-6BDB Verified
+ZCZC MaxLFS 4661M
+ZCZC verifyTokenn cbkadalW10 cbkadal 1122-0C1E Verified
+ZCZC MaxLFS 4680M
+ZCZC verifyTokenn cbkadalW10 cbkadal 1224-DF42 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1325-5A4A Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1428-3A1C Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1530-17B1 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1631-A8F7 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1733-0681 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1834-2183 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1935-0762 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2037-C36E Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2139-9EC8 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2241-E71B Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2342-4DCF Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2444-5D0B Verified
+ZCZC MaxROOT 1655M
+ZCZC MaxMemory 292M
+ZCZC verifyTokenn cbkadalW10 cbkadal 2546-B730 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2647-AFC4 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2749-A633 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2851-01CD Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2952-CAAA Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3054-9638 Verified
+ZCZC MaxMemory 339M
+ZCZC MaxMemory 496M
+ZCZC verifyTokenn cbkadalW10 cbkadal 3156-0B7B Verified
+ZCZC MaxLFS 4681M
+ZCZC MaxLFS 4682M
+ZCZC MaxLFS 4684M
+ZCZC MaxMemory 503M
+ZCZC verifyTokenn cbkadalW10 cbkadal 3257-71D7 Verified
+ZCZC MaxLFS 6409M
+ZCZC MaxLFS 7070M
+ZCZC MaxMemory 565M
+ZCZC verifyTokenn cbkadalW10 cbkadal 3359-9E3E Verified
+ZCZC MaxMemory 968M
+ZCZC verifyTokenn cbkadalW10 cbkadal 3500-D276 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3602-E23D Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3703-8C3A Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3805-489E Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 3906-A248 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4008-1895 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4109-1599 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4211-A7D8 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4313-C814 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4415-0779 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4517-66E3 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4618-A510 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4720-660B Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4821-9CC2 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 4922-9AEF Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5024-217E Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5126-3A23 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5227-51AA Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5329-C314 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5430-52C0 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5532-D0BF Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5634-95BB Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5736-38E8 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5838-C0D6 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 5940-2BF7 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0042-10E2 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0145-C5EB Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0247-1DED Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0349-FAEE Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0451-0E70 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0552-2245 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0654-912A Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0756-17D0 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0857-6824 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 0959-4DB5 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1100-8FCC Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1202-0C29 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1303-CDF2 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1405-1117 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1507-3AF8 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1609-E564 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1712-6722 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1815-868B Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 1916-D279 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2018-5A08 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2119-DD1D Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2221-7421 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2323-7E75 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2424-EF5E Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2526-1D26 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2627-CAF1 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2729-9064 Verified
+ZCZC verifyTokenn cbkadalW10 cbkadal 2831-522B Verified
