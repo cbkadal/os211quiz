@@ -1,4 +1,14 @@
 #!/bin/bash
 # Sat 19 Jun 2021 22:21:50 WIB
 
+[ -z $1 ] && GITHUB=$USER || GITHUB=$1
 
+echo "USER: $USER"
+echo "GITHUB: $GITHUB"
+echo "HOSTNAME: $HOSTNAME"
+
+[ "$USER" = "$GITHUB" ] && [ "$USER" = "$HOSTNAME" ] && {
+    echo "OK"
+} || {
+    echo "$USER != $GITHUB != $HOSTNAME"
+}
