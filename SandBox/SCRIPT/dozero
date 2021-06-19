@@ -1,0 +1,29 @@
+#!/bin/bash
+# Sat 19 Jun 21:00:29 WIB 2021
+
+FILE="ZZZZ"
+
+[ -d /tmp/ ] && {
+    cd /tmp/
+    df .
+    dd if=/dev/zero of=$FILE bs=1M
+    df .
+    rm $FILE
+    df .
+}
+
+[ -d /mnt/lfs/lost+found/ ] && {
+    cd /mnt/lfs/lost+found/
+    df .
+    dd if=/dev/zero of=$FILE bs=1M
+    df .
+    rm $FILE
+    df .
+}
+
+echo ""
+echo "vboxmanage modifymedium --compact"
+echo ""
+
+exit
+

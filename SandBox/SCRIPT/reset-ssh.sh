@@ -8,6 +8,10 @@
 
 rm -fv /etc/ssh/ssh_host_* 
 dpkg-reconfigure openssh-server
+echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+echo "@    WARNING: HOST IDENTIFICATION HAS CHANGED!     @"
+echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+echo 'Correct host key in $HOME/.ssh/known_hosts'
 
 exit 0
 
